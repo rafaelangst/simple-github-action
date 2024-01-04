@@ -1,4 +1,5 @@
-name: OWASP ZAP
+name: OWASP ZAP Integration with GitHub Actions
+
 on: [push]
 
 jobs:
